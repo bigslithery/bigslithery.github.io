@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Statics on Ziqqurratum</title>
-    <link>https://ziqqurratum.com/static/</link>
-    <description>Recent content in Statics on Ziqqurratum</description>
+    <title>Ziqqurratum</title>
+    <link>https://ziqqurratum.com/static/about/</link>
+    <description>Recent content on Ziqqurratum</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <managingEditor>mail@ziqqurratum.com (Iris Nikolova)</managingEditor>
     <webMaster>mail@ziqqurratum.com (Iris Nikolova)</webMaster>
     <copyright>Iris Nikolova</copyright>
-    <lastBuildDate>Sun, 04 Aug 2024 15:07:26 +0300</lastBuildDate>
-    <atom:link href="https://ziqqurratum.com/static/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 04 Aug 2024 10:25:50 +0300</lastBuildDate>
+    <atom:link href="https://ziqqurratum.com/static/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

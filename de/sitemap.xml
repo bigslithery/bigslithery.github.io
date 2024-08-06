@@ -2,6 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://ziqqurratum.com/de/authors/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://ziqqurratum.com/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="bg-BG"
+                href="https://ziqqurratum.com/bg/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="https://ziqqurratum.com/de/authors/"
+                />
+  </url><url>
     <loc>https://ziqqurratum.com/de/categories/</loc>
     <xhtml:link
                 rel="alternate"
