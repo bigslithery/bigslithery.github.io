@@ -2,14 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ziqqurratum.com/archive/</loc>
-    <lastmod>2024-08-06T11:36:12+03:00</lastmod>
-  </url><url>
-    <loc>https://ziqqurratum.com/current/</loc>
-    <lastmod>2024-08-04T15:07:26+03:00</lastmod>
+    <loc>https://ziqqurratum.com/archive/stray/</loc>
+    <lastmod>2024-09-10T17:43:37+03:00</lastmod>
   </url><url>
     <loc>https://ziqqurratum.com/authors/</loc>
-    <lastmod>2024-08-04T14:26:28+03:00</lastmod>
+    <lastmod>2024-09-10T17:43:37+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="bg-BG"
@@ -27,13 +24,46 @@
                 />
   </url><url>
     <loc>https://ziqqurratum.com/authors/iris-nikolova/</loc>
-    <lastmod>2024-08-04T14:26:28+03:00</lastmod>
+    <lastmod>2024-09-10T17:43:37+03:00</lastmod>
   </url><url>
     <loc>https://ziqqurratum.com/tags/poems/</loc>
-    <lastmod>2024-08-04T14:26:28+03:00</lastmod>
+    <lastmod>2024-09-10T17:43:37+03:00</lastmod>
+  </url><url>
+    <loc>https://ziqqurratum.com/tags/</loc>
+    <lastmod>2024-09-10T17:43:37+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="bg-BG"
+                href="https://ziqqurratum.com/bg/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="https://ziqqurratum.com/de/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://ziqqurratum.com/tags/"
+                />
+  </url><url>
+    <loc>https://ziqqurratum.com/archive/rijswijkstraat/</loc>
+    <lastmod>2024-09-10T17:39:12+03:00</lastmod>
+  </url><url>
+    <loc>https://ziqqurratum.com/archive/autohalt/</loc>
+    <lastmod>2024-09-10T17:38:05+03:00</lastmod>
+  </url><url>
+    <loc>https://ziqqurratum.com/archive/acheron/</loc>
+    <lastmod>2024-09-10T17:21:52+03:00</lastmod>
+  </url><url>
+    <loc>https://ziqqurratum.com/archive/stargazing/</loc>
+    <lastmod>2024-08-06T14:26:28+03:00</lastmod>
+  </url><url>
+    <loc>https://ziqqurratum.com/archive/</loc>
+    <lastmod>2024-08-06T11:36:12+03:00</lastmod>
   </url><url>
     <loc>https://ziqqurratum.com/</loc>
-    <lastmod>2024-08-04T14:26:28+03:00</lastmod>
+    <lastmod>2024-08-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="bg-BG"
@@ -50,23 +80,11 @@
                 href="https://ziqqurratum.com/"
                 />
   </url><url>
-    <loc>https://ziqqurratum.com/tags/</loc>
-    <lastmod>2024-08-04T14:26:28+03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="bg-BG"
-                href="https://ziqqurratum.com/bg/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-DE"
-                href="https://ziqqurratum.com/de/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://ziqqurratum.com/tags/"
-                />
+    <loc>https://ziqqurratum.com/tags/prose/</loc>
+    <lastmod>2024-08-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ziqqurratum.com/current/</loc>
+    <lastmod>2024-08-04T15:07:26+03:00</lastmod>
   </url><url>
     <loc>https://ziqqurratum.com/archive/maci/</loc>
     <lastmod>2024-08-04T11:32:19+03:00</lastmod>

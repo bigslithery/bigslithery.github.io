@@ -9,13 +9,21 @@
     <managingEditor>mail@ziqqurratum.com (Iris Nikolova)</managingEditor>
     <webMaster>mail@ziqqurratum.com (Iris Nikolova)</webMaster>
     <copyright>Iris Nikolova</copyright>
-    <lastBuildDate>Sun, 04 Aug 2024 14:26:28 +0300</lastBuildDate>
+    <lastBuildDate>Tue, 10 Sep 2024 17:43:37 +0300</lastBuildDate>
     <atom:link href="https://ziqqurratum.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Poems</title>
       <link>https://ziqqurratum.com/tags/poems/</link>
-      <pubDate>Sun, 04 Aug 2024 14:26:28 +0300</pubDate><author>mail@ziqqurratum.com (Iris Nikolova)</author>
+      <pubDate>Tue, 10 Sep 2024 17:43:37 +0300</pubDate><author>mail@ziqqurratum.com (Iris Nikolova)</author>
       <guid>https://ziqqurratum.com/tags/poems/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    <item>
+      <title>Prose</title>
+      <link>https://ziqqurratum.com/tags/prose/</link>
+      <pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate><author>mail@ziqqurratum.com (Iris Nikolova)</author>
+      <guid>https://ziqqurratum.com/tags/prose/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
