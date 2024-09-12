@@ -9,10 +9,10 @@
     <managingEditor>mail@ziqqurratum.com (Iris Nikolova)</managingEditor>
     <webMaster>mail@ziqqurratum.com (Iris Nikolova)</webMaster>
     <copyright>Iris Nikolova</copyright>
-    <lastBuildDate>Tue, 06 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Sep 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://ziqqurratum.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>a Stray</title>
+      <title>Stray</title>
       <link>https://ziqqurratum.com/archive/stray/</link>
       <pubDate>Tue, 10 Sep 2024 17:43:37 +0300</pubDate><author>mail@ziqqurratum.com (Iris Nikolova)</author>
       <guid>https://ziqqurratum.com/archive/stray/</guid>
@@ -120,15 +120,16 @@ scraping traces of their graces, lacking Destiny&rsquo;s rapport.</p>
       <link>https://ziqqurratum.com/current/</link>
       <pubDate>Sun, 04 Aug 2024 15:07:26 +0300</pubDate><author>mail@ziqqurratum.com (Iris Nikolova)</author>
       <guid>https://ziqqurratum.com/current/</guid>
-      <description>This is a fun idea a friend of mine showed me&amp;ndash;instead of posting random stuff at random times, just write what I&amp;rsquo;m doing at the moment here.&#xA;Media Music Glass Beach Laibach (preparing for concert on 16.10) Obraten Efekt (still hyped from concert on 27.07) Series House of the Dragon (soon™) Production ziqqurratum.com Short-Term Goals Furnish my wardrobe for the autumn/winter season Win the fight with my insurance (You ask to pay them more and you still have to fight them on it (ノಠ益ಠ)ノ彡┻━┻ ) What I&amp;rsquo;m grateful for/happy about Got my prescription finally, so now I can feel secure in having my meds available Did a lot of stuff over the past month of summer, and I feel very productive thanks to it.</description>
+      <description>This is a fun idea a friend of mine showed me&amp;ndash;instead of posting random stuff at random times, just write what I&amp;rsquo;m doing at the moment here.&#xA;Media Music A lot of Tachanka because it energizes me Tom Lehrer DPRK pop (Pochonbo Electronic Ensemble) Mostly random things atm Series House of the Dragon (soon™) Production Short horror story A little philosophy thing which might become a little philosophical book Short-Term Goals Get a job What I&amp;rsquo;m grateful for/happy about I&amp;rsquo;m enjoying going to the local Orthodox church because it successfully gets me out of the house doing something fun.</description>
       <content:encoded><![CDATA[<p>This is a fun idea a friend of mine showed me&ndash;instead of posting random stuff at random times, just write what I&rsquo;m doing at the moment here.</p>
 <h2 id="media">Media</h2>
 <ul>
 <li>Music
 <ul>
-<li>Glass Beach</li>
-<li>Laibach (preparing for concert on 16.10)</li>
-<li>Obraten Efekt (still hyped from concert on 27.07)</li>
+<li>A lot of Tachanka because it energizes me</li>
+<li>Tom Lehrer</li>
+<li>DPRK pop (Pochonbo Electronic Ensemble)</li>
+<li>Mostly random things atm</li>
 </ul>
 </li>
 <li>Series
@@ -139,18 +140,18 @@ scraping traces of their graces, lacking Destiny&rsquo;s rapport.</p>
 </ul>
 <h2 id="production">Production</h2>
 <ul>
-<li>ziqqurratum.com</li>
+<li>Short horror story</li>
+<li>A little philosophy thing which might become a little philosophical book</li>
 </ul>
 <h2 id="short-term-goals">Short-Term Goals</h2>
 <ul>
-<li>Furnish my wardrobe for the autumn/winter season</li>
-<li>Win the fight with my insurance (You ask to pay them more and you still have to fight them on it (ノಠ益ಠ)ノ彡┻━┻ )</li>
+<li>Get a job</li>
 </ul>
 <h2 id="what-im-grateful-forhappy-about">What I&rsquo;m grateful for/happy about</h2>
 <ul>
-<li>Got my prescription finally, so now I can feel secure in having my meds available</li>
-<li>Did a lot of stuff over the past month of summer, and I feel very productive thanks to it.</li>
-<li>I can observe/potentially pet my cat while I&rsquo;m still in Bulgaria</li>
+<li>I&rsquo;m enjoying going to the local Orthodox church because it successfully gets me out of the house doing something fun.</li>
+<li>There&rsquo;s something very comforting about being alone and back in my own place after a 2 month absence</li>
+<li>Once I get my schedule together I can get back to playing the guitar and piano which I&rsquo;ve missed a lot during the summer</li>
 </ul>
 <p>If y&rsquo;all have any ideas for what else I can put here, or if you have recommendations for things I oughtta try/see/do, feel free to contact me about it))</p>
 ]]></content:encoded>
@@ -201,7 +202,7 @@ scraping traces of their graces, lacking Destiny&rsquo;s rapport.</p>
 <p>A kind of <em>pyramidal</em> structure, built by the ancient Mesopotamians on top of which temples were constructed.</p>
 <p>If I come up with any other questions, I&rsquo;ll add them here)</p>
 <h1 id="technical-information">Technical Information</h1>
-<h2 id="how-is-this-side-made">How is this side made?</h2>
+<h2 id="how-is-this-site-made">How is this site made?</h2>
 <p>ziqqurratum.com has its domain registered by <a href="https://www.cloudflare.com/learning/dns/what-is-cloudflare-registrar/">Cloudflare</a>, it&rsquo;s hosted on <a href="https://github.io">github pages</a>, and it&rsquo;s made with <a href="https://gohugo.io">HUGO</a> and the <a href="https://themes.gohugo.io/themes/hugo-bearcub/">Bear Cub theme</a> (which I&rsquo;ve modded). It has exactly 1 bit of JS, and that&rsquo;s the &ldquo;Quack&rdquo; button in the navbar because I thought it&rsquo;d be amusing.</p>
 <h2 id="what-data-do-you-collect">What data do you collect?</h2>
 <p>As far as I know, nothing. It&rsquo;s possible github pages collects some kind of annonymized statistical data for site visitors, but I have no knowledge of how to check. For what it&rsquo;s worth, I don&rsquo;t particularly wish to collect any data or serve ads, and if I&rsquo;m ever to monitize this project, I&rsquo;d probably do it with a donation platform like Patreon.</p>
